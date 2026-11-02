@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemang67&theme=highcontrast" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HR-Techovarya&theme=highcontrast" alt="GitHub Profile Summary" />
 </p>
 
 <h1 align="center">Hi there, I'm Hemang! 👋</h1>
@@ -12,7 +12,7 @@
   <a href="https://hemang-rathod.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-HemangOS-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Hemang67&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HR-Techovarya&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
@@ -45,30 +45,30 @@ I'm **Hemang Rathod**, a Senior Full Stack Developer with **7+ years** of experi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemang67&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang67&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HR-Techovarya&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Techovarya&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hemang67&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=HR-Techovarya&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemang67&theme=highcontrast" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemang67&theme=highcontrast" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HR-Techovarya&theme=highcontrast" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HR-Techovarya&theme=highcontrast" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hemang67&theme=highcontrast" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemang67&theme=highcontrast&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HR-Techovarya&theme=highcontrast" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HR-Techovarya&theme=highcontrast&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hemang67&theme=high-contrast&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HR-Techovarya&theme=high-contrast&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemang67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HR-Techovarya&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -115,11 +115,11 @@ I'm **Hemang Rathod**, a Senior Full Stack Developer with **7+ years** of experi
 > Real-time data synchronization platform for business applications.
 🛠️ Angular 13, .NET Core, SQL Server, Azure · 📈 **10M+ transactions/day**, **99.9%** uptime
 
-#### 🔹 [NondhAI](https://github.com/Hemang67/NondhAI)
+#### 🔹 [NondhAI](https://github.com/Hemang67/NondhAI) <sub>· on @Hemang67</sub>
 > Offline-first Windows app for dictation, meeting notes, screen recording, and video editing.
 🛠️ TypeScript
 
-#### 🔹 [QAgent](https://github.com/Hemang67/QAgent)
+#### 🔹 [QAgent](https://github.com/Hemang67/QAgent) <sub>· on @Hemang67</sub>
 > Desktop app (Windows/Linux) that discovers pages in a web project, opens them in a browser, and reports broken behavior like failed API calls.
 🛠️ TypeScript
 
@@ -163,7 +163,8 @@ I'm **Hemang Rathod**, a Senior Full Stack Developer with **7+ years** of experi
   </a>
 </p>
 
-- 🧑‍💻 **GitHub Followers:** ![GitHub followers](https://img.shields.io/github/followers/Hemang67?label=Follow&style=social)
+- 🐙 **Personal GitHub:** [@Hemang67](https://github.com/Hemang67) — home of my open-source side projects (NondhAI, QAgent)
+- 🧑‍💻 **GitHub Followers:** ![GitHub followers](https://img.shields.io/github/followers/HR-Techovarya?label=Follow&style=social)
 
 ---
 
